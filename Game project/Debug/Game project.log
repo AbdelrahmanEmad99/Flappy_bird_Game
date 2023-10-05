@@ -1,0 +1,33 @@
+﻿  Menu.cpp
+  Menuu.cpp
+  Source.cpp
+C:\Users\user\source\repos\Game project\Source.cpp(213,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(213,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(214,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(214,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(215,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(215,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(222,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(222,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(223,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(223,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(224,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(224,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(245,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(250,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(250,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(282,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\Game project\Source.cpp(288,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\Game project\Source.cpp(302,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\Game project\Source.cpp(308,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\Game project\Source.cpp(321,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\Game project\Source.cpp(374,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\Game project\Source.cpp(535,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(535,20): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(594,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(594,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\source\repos\Game project\Source.cpp(639,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\Game project\Source.cpp(642,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Source1.cpp
+  Generating Code...
+  Game project.vcxproj -> C:\Users\user\source\repos\Game project\Debug\Game project.exe
